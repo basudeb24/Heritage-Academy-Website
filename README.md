@@ -1,1 +1,1 @@
-# Heritage-Academy-Website
+This is a website of the heritage academy
